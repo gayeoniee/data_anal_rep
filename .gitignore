@@ -2,6 +2,7 @@
 *.png
 *.csv
 *.pickle
+*.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
